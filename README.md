@@ -1,1 +1,1 @@
-# hello-git-course2
+# This is a README
